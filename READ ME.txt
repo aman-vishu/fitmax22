@@ -3,7 +3,9 @@ READ ME : INDEX
 		2)HOW TO RUN
 		3)HOW TO POSITION YOURSELF(for dffrent exercises) FOR SMOOTH DETECTION
 
-1:LIBRARIES,Files,packages TO BE INSTALLED BEFORE
+1:you can directly instal from requirements.txt or do the below LIBRARIES,Files,packages TO BE INSTALLED BEFORE
+
+but if the website fails to run try doing it by requirements.txt
 
 pip install opencv-python
 pip install opencv-contrib-python
@@ -12,7 +14,7 @@ pip install flask
 pip install mediapipe
 pip install numpy
 pip install flask
-
+pip install -Iv protobuf==3.20.1
 
 
 2:HOW TO RUN
