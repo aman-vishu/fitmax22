@@ -1,12 +1,15 @@
 # engage
 microsoft engage Aman Maan
+ 
+ if you want you can install requirements.txt or do the below 
+
 
 READ ME : INDEX
 		1)LIBRARIES,FILES,Packages TO BE INSTALLED BEFORE
 		2)HOW TO RUN
 		3)HOW TO POSITION YOURSELF(for dffrent exercises) FOR SMOOTH DETECTION
 
-1:LIBRARIES,Files,packages TO BE INSTALLED BEFORE
+1:if you want you can install requirements.txt or do the below --------LIBRARIES,Files,packages TO BE INSTALLED BEFORE
 
 pip install opencv-python
 pip install opencv-contrib-python
