@@ -18,6 +18,7 @@ pip install flask
 pip install mediapipe
 pip install numpy
 pip install flask
+pip install -Iv protobuf==3.20.1
 
 
 
